@@ -1,1 +1,4 @@
-this is a readme
+Checkers Game
+
+Uses a 1D array to generate a board
+Uses a class piece in order to recieve and output important information regarding the piece(ex. position, team)
