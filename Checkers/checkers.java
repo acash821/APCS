@@ -167,129 +167,129 @@ public class checkers {
                     }
                 }
                 if (c == 2) {
-                    char dhakkan = b1[f].charAt(1);
-                    int khajoor = Character.getNumericValue(dhakkan);
-                    one.setX(khajoor);
+                    char d = b1[f].charAt(1);
+                    int k = Character.getNumericValue(dhakkan);
+                    one.setX(k);
                     one.setY(b1[f].charAt(0));
                 }
             } else if (two.getY() == y) {
                 if (two.getX() == a) {
                     if (c == 1) {
-                        char dhakkan = b1[e].charAt(1);
-                        int khajoor = Character.getNumericValue(dhakkan);
-                        two.setX(khajoor);
+                        char d = b1[e].charAt(1);
+                        int k = Character.getNumericValue(dhakkan);
+                        two.setX(k);
                         two.setY(b1[e].charAt(0));
                     }
                 }
                 if (c == 2) {
-                    char dhakkan = b1[f].charAt(1);
-                    int khajoor = Character.getNumericValue(dhakkan);
-                    one.setX(khajoor);
+                    char d = b1[f].charAt(1);
+                    int k = Character.getNumericValue(dhakkan);
+                    one.setX(k);
                     one.setY(b1[f].charAt(0));
                 }
             } else if (three.getY() == y) {
                 if (three.getX() == a) {
                     if (c == 1) {
-                        char dhakkan = b1[f].charAt(1);
-                        int khajoor = Character.getNumericValue(dhakkan);
-                        three.setX(khajoor);
+                        char d = b1[f].charAt(1);
+                        int k = Character.getNumericValue(dhakkan);
+                        three.setX(k);
                         three.setY(b1[e].charAt(0));
                     }
                 }
                 if (c == 2) {
-                    char dhakkan = b1[f].charAt(1);
-                    int khajoor = Character.getNumericValue(dhakkan);
-                    three.setX(khajoor);
+                    char d = b1[f].charAt(1);
+                    int k = Character.getNumericValue(dhakkan);
+                    three.setX(k);
                     three.setY(b1[f].charAt(0));
                 }
             } else if (four.getY() == y) {
                 if (four.getX() == a) {
                     if (c == 1) {
-                        char dhakkan = b1[e].charAt(1);
-                        int khajoor = Character.getNumericValue(dhakkan);
-                        four.setX(khajoor);
+                        char d = b1[e].charAt(1);
+                        int k = Character.getNumericValue(dhakkan);
+                        four.setX(k);
                         four.setY(b1[e].charAt(0));
                     }
                 }
                 if (c == 2) {
-                    char dhakkan = b1[f].charAt(1);
-                    int khajoor = Character.getNumericValue(dhakkan);
-                    four.setX(khajoor);
+                    char d = b1[f].charAt(1);
+                    int k = Character.getNumericValue(dhakkan);
+                    four.setX(k);
                     four.setY(b1[f].charAt(0));
                 }
             } else if (five.getY() == y) {
                 if (five.getX() == a) {
                     if (c == 1) {
-                        char dhakkan = b1[e].charAt(1);
-                        int khajoor = Character.getNumericValue(dhakkan);
-                        five.setX(khajoor);
+                        char d = b1[e].charAt(1);
+                        int k = Character.getNumericValue(dhakkan);
+                        five.setX(k);
                         five.setY(b1[e].charAt(0));
                     }
                 }
                 if (c == 2) {
-                    char dhakkan = b1[f].charAt(1);
-                    int khajoor = Character.getNumericValue(dhakkan);
-                    five.setX(khajoor);
+                    char d = b1[f].charAt(1);
+                    int k = Character.getNumericValue(dhakkan);
+                    five.setX(k);
                     five.setY(b1[f].charAt(0));
                 }
             } else if (six.getY() == y) {
                 if (six.getX() == a) {
                     if (c == 1) {
-                        char dhakkan = b1[e].charAt(1);
-                        int khajoor = Character.getNumericValue(dhakkan);
-                        six.setX(khajoor);
+                        char d = b1[e].charAt(1);
+                        int k = Character.getNumericValue(dhakkan);
+                        six.setX(k);
                         six.setY(b1[e].charAt(0));
                     }
                 }
                 if (c == 2) {
-                    char dhakkan = b1[f].charAt(1);
-                    int khajoor = Character.getNumericValue(dhakkan);
-                    six.setX(khajoor);
+                    char d = b1[f].charAt(1);
+                    int k = Character.getNumericValue(dhakkan);
+                    six.setX(k);
                     six.setY(b1[f].charAt(0));
                 }
             } else if (seven.getY() == y) {
                 if (seven.getX() == a) {
                     if (c == 1) {
-                        char dhakkan = b1[e].charAt(1);
-                        int khajoor = Character.getNumericValue(dhakkan);
-                        seven.setX(khajoor);
+                        char d = b1[e].charAt(1);
+                        int k = Character.getNumericValue(dhakkan);
+                        seven.setX(k);
                         seven.setY(b1[e].charAt(0));
                     }
                 }
                 if (c == 2) {
-                    char dhakkan = b1[f].charAt(1);
-                    int khajoor = Character.getNumericValue(dhakkan);
-                    seven.setX(khajoor);
+                    char d = b1[f].charAt(1);
+                    int k = Character.getNumericValue(dhakkan);
+                    seven.setX(k);
                     seven.setY(b1[f].charAt(0));
                 }
             } else if (eight.getY() == y) {
                 if (eight.getX() == a) {
                     if (c == 1) {
-                        char dhakkan = b1[e].charAt(1);
-                        int khajoor = Character.getNumericValue(dhakkan);
-                        eight.setX(khajoor);
+                        char d = b1[e].charAt(1);
+                        int k = Character.getNumericValue(dhakkan);
+                        eight.setX(k);
                         eight.setY(b1[e].charAt(0));
                     }
                 }
                 if (c == 2) {
-                    char dhakkan = b1[f].charAt(1);
-                    int khajoor = Character.getNumericValue(dhakkan);
-                    eight.setX(khajoor);
+                    char d = b1[f].charAt(1);
+                    int k = Character.getNumericValue(dhakkan);
+                    eight.setX(k);
                     eight.setY(b1[f].charAt(0));
                 }
             } else if (nine.getY() == y) {
                 if (nine.getX() == a) {
                     if (c == 1) {
-                        char dhakkan = b1[e].charAt(1);
-                        int khajoor = Character.getNumericValue(dhakkan);
+                        char d = b1[e].charAt(1);
+                        int k = Character.getNumericValue(dhakkan);
                         nine.setX(khajoor);
                         nine.setY(b1[e].charAt(0));
                     }
                 }
                 if (c == 2) {
-                    char dhakkan = b1[f].charAt(1);
-                    int khajoor = Character.getNumericValue(dhakkan);
-                    nine.setX(khajoor);
+                    char d = b1[f].charAt(1);
+                    int k = Character.getNumericValue(dhakkan);
+                    nine.setX(k);
                     nine.setY(b1[f].charAt(0));
                 }
                 System.out.println(nine.getX());
@@ -297,182 +297,182 @@ public class checkers {
             } else if (ten.getY() == y) {
                 if (ten.getX() == a) {
                     if (c == 1) {
-                        char dhakkan = b1[e].charAt(1);
-                        int khajoor = Character.getNumericValue(dhakkan);
-                        ten.setX(khajoor);
+                        char d = b1[e].charAt(1);
+                        int k = Character.getNumericValue(dhakkan);
+                        ten.setX(k);
                         ten.setY(b1[e].charAt(0));
                     }
                 }
                 if (c == 2) {
-                    char dhakkan = b1[f].charAt(1);
-                    int khajoor = Character.getNumericValue(dhakkan);
+                    char d = b1[f].charAt(1);
+                    int k = Character.getNumericValue(dhakkan);
                     ten.setX(khajoor);
                     ten.setY(b1[f].charAt(0));
                 }
             } else if (eleven.getY() == y) {
                 if (eleven.getX() == a) {
                     if (c == 1) {
-                        char dhakkan = b1[e].charAt(1);
-                        int khajoor = Character.getNumericValue(dhakkan);
-                        eleven.setX(khajoor);
+                        char d = b1[e].charAt(1);
+                        int k = Character.getNumericValue(dhakkan);
+                        eleven.setX(k);
                         eleven.setY(b1[e].charAt(0));
                     }
                 }
                 if (c == 2) {
-                    char dhakkan = b1[f].charAt(1);
-                    int khajoor = Character.getNumericValue(dhakkan);
+                    char d = b1[f].charAt(1);
+                    int k = Character.getNumericValue(dhakkan);
                     eleven.setX(khajoor);
                     eleven.setY(b1[f].charAt(0));
                 }
             } else if (twelve.getY() == y) {
                 if (twelve.getX() == a) {
                     if (c == 1) {
-                        char dhakkan = b1[e].charAt(1);
-                        int khajoor = Character.getNumericValue(dhakkan);
-                        twelve.setX(khajoor);
+                        char d = b1[e].charAt(1);
+                        int k = Character.getNumericValue(dhakkan);
+                        twelve.setX(k);
                         twelve.setY(b1[e].charAt(0));
                     }
                 }
                 if (c == 2) {
-                    char dhakkan = b1[f].charAt(1);
-                    int khajoor = Character.getNumericValue(dhakkan);
-                    twelve.setX(khajoor);
+                    char d = b1[f].charAt(1);
+                    int k = Character.getNumericValue(dhakkan);
+                    twelve.setX(k);
                     twelve.setY(b1[f].charAt(0));
                 }
             }
             if (one1.getY() == y) {
                 if (one1.getX() == a) {
                     if (c == 1) {
-                        char dhakkan = b1[e].charAt(1);
-                        int khajoor = Character.getNumericValue(dhakkan);
-                        one1.setX(khajoor);
+                        char d = b1[e].charAt(1);
+                        int k = Character.getNumericValue(dhakkan);
+                        one1.setX(k);
                         one1.setY(b[1].charAt(0));
                     }
                 }
                 if (c == 2) {
-                    char dhakkan = b1[f].charAt(1);
-                    int khajoor = Character.getNumericValue(dhakkan);
-                    one1.setX(khajoor);
+                    char d = b1[f].charAt(1);
+                    int k = Character.getNumericValue(dhakkan);
+                    one1.setX(k);
                     one1.setY(b1[f].charAt(0));
                 }
             } else if (two1.getY() == y) {
                 if (two1.getX() == a) {
                     if (c == 1) {
-                        char dhakkan = b1[e].charAt(1);
-                        int khajoor = Character.getNumericValue(dhakkan);
-                        two1.setX(khajoor);
+                        char d = b1[e].charAt(1);
+                        int k = Character.getNumericValue(dhakkan);
+                        two1.setX(k);
                         two1.setY(b1[e].charAt(0));
                     }
                 }
                 if (c == 2) {
-                    char dhakkan = b1[f].charAt(1);
-                    int khajoor = Character.getNumericValue(dhakkan);
-                    one.setX(khajoor);
+                    char d = b1[f].charAt(1);
+                    int k = Character.getNumericValue(dhakkan);
+                    one.setX(k);
                     one.setY(b1[f].charAt(0));
                 }
             } else if (three1.getY() == y) {
                 if (three1.getX() == a) {
                     if (c == 1) {
-                        char dhakkan = b1[f].charAt(1);
-                        int khajoor = Character.getNumericValue(dhakkan);
-                        three1.setX(khajoor);
+                        char d = b1[f].charAt(1);
+                        int k = Character.getNumericValue(dhakkan);
+                        three1.setX(k);
                         three1.setY(b1[e].charAt(0));
                     }
                 }
                 if (c == 2) {
-                    char dhakkan = b1[f].charAt(1);
-                    int khajoor = Character.getNumericValue(dhakkan);
-                    three1.setX(khajoor);
+                    char d = b1[f].charAt(1);
+                    int k = Character.getNumericValue(dhakkan);
+                    three1.setX(k);
                     three1.setY(b1[f].charAt(0));
                 }
             } else if (four1.getY() == y) {
                 if (four1.getX() == a) {
                     if (c == 1) {
-                        char dhakkan = b1[e].charAt(1);
-                        int khajoor = Character.getNumericValue(dhakkan);
-                        four1.setX(khajoor);
+                        char d = b1[e].charAt(1);
+                        int k = Character.getNumericValue(dhakkan);
+                        four1.setX(k);
                         four1.setY(b1[e].charAt(0));
                     }
                 }
                 if (c == 2) {
-                    char dhakkan = b1[f].charAt(1);
-                    int khajoor = Character.getNumericValue(dhakkan);
-                    four1.setX(khajoor);
+                    char d = b1[f].charAt(1);
+                    int k = Character.getNumericValue(dhakkan);
+                    four1.setX(k);
                     four1.setY(b1[f].charAt(0));
                 }
             } else if (five1.getY() == y) {
                 if (five1.getX() == a) {
                     if (c == 1) {
-                        char dhakkan = b1[e].charAt(1);
-                        int khajoor = Character.getNumericValue(dhakkan);
-                        five1.setX(khajoor);
+                        char d = b1[e].charAt(1);
+                        int k = Character.getNumericValue(dhakkan);
+                        five1.setX(k);
                         five1.setY(b1[e].charAt(0));
                     }
                 }
                 if (c == 2) {
-                    char dhakkan = b1[f].charAt(1);
-                    int khajoor = Character.getNumericValue(dhakkan);
-                    five1.setX(khajoor);
+                    char d = b1[f].charAt(1);
+                    int k = Character.getNumericValue(dhakkan);
+                    five1.setX(k);
                     five1.setY(b1[f].charAt(0));
                 }
             } else if (six1.getY() == y) {
                 if (six1.getX() == a) {
                     if (c == 1) {
-                        char dhakkan = b1[e].charAt(1);
-                        int khajoor = Character.getNumericValue(dhakkan);
-                        six1.setX(khajoor);
+                        char d = b1[e].charAt(1);
+                        int k = Character.getNumericValue(dhakkan);
+                        six1.setX(k);
                         six1.setY(b1[e].charAt(0));
                     }
                 }
                 if (c == 2) {
-                    char dhakkan = b1[f].charAt(1);
-                    int khajoor = Character.getNumericValue(dhakkan);
-                    six1.setX(khajoor);
+                    char d = b1[f].charAt(1);
+                    int k = Character.getNumericValue(dhakkan);
+                    six1.setX(k);
                     six1.setY(b1[f].charAt(0));
                 }
             } else if (seven1.getY() == y) {
                 if (seven1.getX() == a) {
                     if (c == 1) {
-                        char dhakkan = b1[e].charAt(1);
-                        int khajoor = Character.getNumericValue(dhakkan);
-                        seven1.setX(khajoor);
+                        char d = b1[e].charAt(1);
+                        int k = Character.getNumericValue(dhakkan);
+                        seven1.setX(k);
                         seven1.setY(b1[e].charAt(0));
                     }
                 }
                 if (c == 2) {
-                    char dhakkan = b1[f].charAt(1);
-                    int khajoor = Character.getNumericValue(dhakkan);
-                    seven1.setX(khajoor);
+                    char d = b1[f].charAt(1);
+                    int k = Character.getNumericValue(dhakkan);
+                    seven1.setX(k);
                     seven1.setY(b1[f].charAt(0));
                 }
             } else if (eight1.getY() == y) {
                 if (eight1.getX() == a) {
                     if (c == 1) {
-                        char dhakkan = b1[e].charAt(1);
-                        int khajoor = Character.getNumericValue(dhakkan);
-                        eight1.setX(khajoor);
+                        char d = b1[e].charAt(1);
+                        int k = Character.getNumericValue(dhakkan);
+                        eight1.setX(k);
                         eight1.setY(b1[e].charAt(0));
                     }
                 }
                 if (c == 2) {
-                    char dhakkan = b1[f].charAt(1);
-                    int khajoor = Character.getNumericValue(dhakkan);
-                    eight1.setX(khajoor);
+                    char d = b1[f].charAt(1);
+                    int k = Character.getNumericValue(dhakkan);
+                    eight1.setX(k);
                     eight1.setY(b1[f].charAt(0));
                 }
             } else if (nine1.getY() == y) {
                 if (nine1.getX() == a) {
                     if (c == 1) {
-                        char dhakkan = b1[e].charAt(1);
-                        int khajoor = Character.getNumericValue(dhakkan);
-                        nine1.setX(khajoor);
+                        char d = b1[e].charAt(1);
+                        int k = Character.getNumericValue(dhakkan);
+                        nine1.setX(k);
                         nine1.setY(b1[e].charAt(0));
                     }
                 }
                 if (c == 2) {
-                    char dhakkan = b1[f].charAt(1);
-                    int khajoor = Character.getNumericValue(dhakkan);
-                    nine1.setX(khajoor);
+                    char d = b1[f].charAt(1);
+                    int k = Character.getNumericValue(dhakkan);
+                    nine1.setX(k);
                     nine1.setY(b1[f].charAt(0));
                 }
                 System.out.println(nine1.getX());
@@ -480,46 +480,46 @@ public class checkers {
             } else if (ten1.getY() == y) {
                 if (ten1.getX() == a) {
                     if (c == 1) {
-                        char dhakkan = b1[e].charAt(1);
-                        int khajoor = Character.getNumericValue(dhakkan);
-                        ten1.setX(khajoor);
+                        char d = b1[e].charAt(1);
+                        int k = Character.getNumericValue(dhakkan);
+                        ten1.setX(k);
                         ten1.setY(b1[e].charAt(0));
                     }
                 }
                 if (c == 2) {
-                    char dhakkan = b1[f].charAt(1);
-                    int khajoor = Character.getNumericValue(dhakkan);
-                    ten1.setX(khajoor);
+                    char d = b1[f].charAt(1);
+                    int k = Character.getNumericValue(dhakkan);
+                    ten1.setX(k);
                     ten1.setY(b1[f].charAt(0));
                 }
             } else if (eleven1.getY() == y) {
                 if (eleven1.getX() == a) {
                     if (c == 1) {
-                        char dhakkan = b1[e].charAt(1);
-                        int khajoor = Character.getNumericValue(dhakkan);
-                        eleven1.setX(khajoor);
+                        char d = b1[e].charAt(1);
+                        int k = Character.getNumericValue(dhakkan);
+                        eleven1.setX(k);
                         eleven1.setY(b1[e].charAt(0));
                     }
                 }
                 if (c == 2) {
-                    char dhakkan = b1[f].charAt(1);
-                    int khajoor = Character.getNumericValue(dhakkan);
-                    eleven1.setX(khajoor);
+                    char d = b1[f].charAt(1);
+                    int k = Character.getNumericValue(dhakkan);
+                    eleven1.setX(k);
                     eleven1.setY(b1[f].charAt(0));
                 }
             } else if (twelve1.getY() == y) {
                 if (twelve1.getX() == a) {
                     if (c == 1) {
-                        char dhakkan = b1[e].charAt(1);
-                        int khajoor = Character.getNumericValue(dhakkan);
-                        twelve1.setX(khajoor);
+                        char d = b1[e].charAt(1);
+                        int k = Character.getNumericValue(dhakkan);
+                        twelve1.setX(k);
                         twelve1.setY(b1[e].charAt(0));
                     }
                 }
                 if (c == 2) {
-                    char dhakkan = b1[f].charAt(1);
-                    int khajoor = Character.getNumericValue(dhakkan);
-                    twelve1.setX(khajoor);
+                    char d = b1[f].charAt(1);
+                    int k = Character.getNumericValue(dhakkan);
+                    twelve1.setX(k);
                     twelve1.setY(b1[f].charAt(0));
                 }
             }
